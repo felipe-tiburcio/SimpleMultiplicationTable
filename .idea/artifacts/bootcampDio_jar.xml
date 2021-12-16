@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="bootcampDio:jar">
+    <output-path>$PROJECT_DIR$/../../../../multTable.jar</output-path>
+    <root id="archive" name="bootcampDio.jar">
+      <element id="module-output" name="bootcampDio" />
+    </root>
+  </artifact>
+</component>
